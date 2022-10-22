@@ -41,7 +41,7 @@ const Signup = () => {
                 <p className="py-8">
                   <span className="text-gray-600">
                     Already subscribed to Netflix?
-                  </span>
+                  </span>{' '}
                   <Link to='/login'>
                     Sign In
                   </Link>
